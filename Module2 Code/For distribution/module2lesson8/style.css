@@ -1,0 +1,23 @@
+.white-box{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    position: absolute;
+}
+.red-circle{
+    background-color: red;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+.duck-box{
+    display:none;
+    width: 600px;
+    height: 400px;
+}
+img {
+    height: 150px;
+    float: none;
+}

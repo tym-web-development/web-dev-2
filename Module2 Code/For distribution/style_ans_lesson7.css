@@ -1,0 +1,29 @@
+/* Group */
+h1,
+h2 {
+  color: blueviolet;
+}
+
+/* Child */
+.box > p {
+  color: firebrick;
+  font-weight: bold;
+}
+
+/* Descendent */
+.box li {
+  color: orange;
+}
+
+/* Chained */
+li.like {
+  color: green;
+}
+
+li.maybe {
+  color: orange;
+}
+
+li.nolike {
+  color: red;
+}

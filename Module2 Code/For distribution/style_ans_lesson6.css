@@ -1,0 +1,36 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  border: 2px solid purple;
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* Add your CSS below this line */
+.yellow-box {
+  background-color: yellow;
+}
+
+.yellow-box p {
+  color: red;
+}
+
+.red-box {
+  background-color: red;
+}
+
+.white-text {
+  color: white;
+}
+
+#big-box {
+  border: 5px solid green;
+}
+
